@@ -7,6 +7,8 @@ public class btth {
 		System.out.println("Leader create project");
 		
 		System.out.println("Quân Hello");
+		
+		System.out.println("Quân hello commandline");
 	}
 
 }
