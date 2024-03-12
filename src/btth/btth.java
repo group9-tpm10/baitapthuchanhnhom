@@ -11,9 +11,8 @@ public class btth {
 		System.out.println("Quân Hello");
 		
 		System.out.println("Phan Nhi Quoc Khanh");
-
-		System.out.println("NGuyễn Thái Hoàng Linh");
+		
+		System.out.println("Thuy trinh commands");
 
 	}
-
 }
