@@ -8,7 +8,7 @@ public class btth {
 		
 		System.out.println("Quân Hello");
 		
-		System.out.println("Quân hello commandline");
+		System.out.println("Quân hello commandlines");
 	}
 
 }
